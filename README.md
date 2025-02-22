@@ -9,4 +9,4 @@ This is a simple **Frontend Mentor** challenge for practice. The project is full
 - HTML
 - CSS 
 - JavaScript (for fetching advice)
-- API Used: [Advice Slip API](https://api.adviceslip.com/)
+- API Used: [Advice Slip API](https://amitfrontend.github.io/Advice-generator-app/)
